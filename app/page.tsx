@@ -38,7 +38,8 @@ export default function Home() {
 
         <div className="lg:w-[346px] lg:h-[33px] lg:gap-[0px]">
           <h3 className="lg:text-[20px] lg:font-normal lg:leading-[33px] lg:text-left
-            text-[18px] font-normal leading-[33px] text-left">Update on Your Booking Request</h3>
+            text-[18px] font-normal leading-[33px] text-left">Update on Your Request</h3>
+            {/* Update on Your Booking Request */}
 
           <div className="lg:mt-4 lg:w-[506.89px] lg:h-[306px] lg:gap-[0px]  lg:bg-[#ffff] lg:flex lg:flex-col lg:justify-end 
         mt-4 w-full h-[306px] gap-[0px] bg-[#ffff] flex flex-col justify-end">
